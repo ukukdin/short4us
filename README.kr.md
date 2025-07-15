@@ -8,6 +8,7 @@
 [![Top Language](https://img.shields.io/github/languages/top/Isaac-Andradee/short4us)](https://github.com/search?q=repo%3AIsaac-Andradee%2Fshort4us++language%3AJava&type=code)
 
 Short4Us는 Spring Boot와 마이크로서비스 아키텍처로 개발된 URL 단축 시스템입니다. Docker Swarm을 통해 완전히 확장 가능하며, 긴 URL을 빠르고 안정적으로 단축할 수 있도록 설계되었습니다.
+
 ![Screenshot](https://github.com/user-attachments/assets/d419bea8-d448-4e3a-b950-19a833c06f82)
 
 ## 아키텍처 구성
